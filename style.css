@@ -1,0 +1,17 @@
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+      	width:88%;
+      	float:left;
+        height: 100%;
+      }
+      .sidebar{
+      	width:12%;
+      	float:right;
+      }
+      .sidebar div{
+      	padding-bottom:10px;
+      }
